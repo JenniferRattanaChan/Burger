@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+    color: rgb(194, 194, 45);
+    font-family: Impact, sans-serif;
+    width: 90%;
+    margin: auto;
+}
+img{
+    display: block;
+    margin: 30px auto;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+button {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color:rgb(194, 194, 45);
+    color: white;
+    font-size: 1em;
+    margin: 10px;
+}
+form {
+    text-align: center;
+    font-size: 17px;
+}
+ul {
+    list-style-type: none;
+    margin-right: 15px;
+    margin-left: -40px;
+}
+#burgersToEat {
+    float: left;
+    width: 30%;
+}
+#form {
+    float: left;
+    margin-left: 120px;
+    /*margin-right: auto*/
+}
+#burgersEaten {
+    float: right;
+    width: 35%;
+    margin-right: -50px;
+}
+#burgersEaten li {
+    line-height: 3em;
+}
+#main {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
